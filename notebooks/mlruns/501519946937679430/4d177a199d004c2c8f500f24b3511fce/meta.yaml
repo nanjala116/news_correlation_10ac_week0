@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ZAWADI/Documents/Nanjala/projects/10%20Academy/news_correlation_10ac_week0/notebooks/mlruns/501519946937679430/4d177a199d004c2c8f500f24b3511fce/artifacts
+end_time: 1725049424407
+entry_point_name: ''
+experiment_id: '501519946937679430'
+lifecycle_stage: active
+run_id: 4d177a199d004c2c8f500f24b3511fce
+run_name: clean-dog-749
+run_uuid: 4d177a199d004c2c8f500f24b3511fce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725049419157
+status: 3
+tags: []
+user_id: ZAWADI
